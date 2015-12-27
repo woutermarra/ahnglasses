@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AHN Glasses</string>
+    <string name="title_activity_main">Show elevation map</string>
+    <string name="load_text">Show elevation map</string>
+
+</resources>
