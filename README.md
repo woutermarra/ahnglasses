@@ -12,5 +12,7 @@ Onderstaande screenshot toont de rivier de Dinkel met kronkelwaardreliëf (midde
 ![Screenshot](https://github.com/woutermarra/ahnglasses/blob/master/screenshot.png)
 
 (c) Wouter Marra
+
 Licence: GNU General Public License v3.0
+
 I've started this app from https://github.com/prt2121/LoadImage
