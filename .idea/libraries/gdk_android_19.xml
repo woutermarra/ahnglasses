@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gdk-android-19">
-    <CLASSES>
-      <root url="jar://C:/Android/sdk/add-ons/addon-google_gdk-google-19/libs/gdk.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
